@@ -2,7 +2,7 @@
 BertrandsWords - Simple command line vocabulary training based on words used by Bertrand Russel,
 specifically in his book "History of Western Philosophy".
 
-Program structure:
+General structure:
 The original book from which all words are taken is in the "History_of_Western_Philosophy.txt" file.
 If processing of the book has not been done, this is the first thing that the program does.
 The main functions that do this processing are in the "preprocess_book" and the "frequency_rank" modules
@@ -68,7 +68,7 @@ else:
 			print("\n" + "\n" + "n - next | m - show meaning | x - exit")
 			next_command = input("Action: ")
 
-		# printmeaning of a word		
+		# print meaning of a word		
 		elif next_command is "m":
 			print("-------------------------------------------")
 			try:
