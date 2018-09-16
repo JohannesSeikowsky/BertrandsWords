@@ -11,11 +11,11 @@ show its meaning plus an example of the word in use, move to the next word or en
 the program. That's it.
 
 At the start you can set whether you want to see rarer or less rare words
-by setting an interval. For instance - 99-100 would show you the rarest 1% of words
+by setting an interval. For instance, 99-100 would show you the rarest 1% of words
 in terms of their usage in contemporary English.
 
 #### Dependencies
-No dependencies if you are fine with just "History of Western Philosophy".
+No dependencies needed if you are fine with just "History of Western Philosophy".
 If you want to expand to other books as inputs, you'll need nltk to run
 the two processing scripts.
 
