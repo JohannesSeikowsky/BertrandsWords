@@ -91,6 +91,3 @@ else:
 		# exit command line session
 		else:
 			break
-
-
-# nxt
