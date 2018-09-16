@@ -20,5 +20,5 @@ If you want to expand to other books as inputs, you'll need nltk to run
 the two processing scripts.
 
 #### Possible plans
-This is a version 0.1 so there are many things that can be improved.
+This is a crude version 0.1 so there are many things that can be improved.
 And things that can be added. I haven't decided yet.
