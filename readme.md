@@ -1,3 +1,4 @@
+#### BertrandsWords
 Simple command line vocabulary training based on words used by Bertrand Russell
 in "History of Western Philosophy" - Version 0.1
 
@@ -24,5 +25,5 @@ This is a crude version 0.1 so there are many things that can be improved.
 And things that can be added. I haven't decided yet. Some ideas: 
 - extend program so that other books can easily and dynamically be added as "input" books
 - add vocabulary training features like "hot listing" interest words for instance
-- ability to see a particular word in the sentence it was originally used in within it's
-"book of origin"
+- ability to see a particular word in the sentence it was originally used in within the book
+it "came from"
