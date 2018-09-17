@@ -3,7 +3,7 @@ Simple command line vocabulary training based on words used by Bertrand Russell
 in "History of Western Philosophy" - Version 0.1
 
 #### How to use it
-Clone repo as usual, navigate to "bertrands_words" directory, 
+Clone repo, navigate to "bertrands_words" directory, 
 run program using python3 - `python3 main.py`
 
 #### How it works
